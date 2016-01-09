@@ -1,0 +1,2038 @@
+<node changeset="25966956" id="569657502" lat="22.5032265" lon="88.6147934" timestamp="2014-10-09T18:17:55Z" uid="507276" user="FuckOSMFandODbL" version="2" />
+	
+<node changeset="25966956" id="569657564" lat="22.5072938" lon="88.6318171" timestamp="2014-10-09T18:17:55Z" uid="507276" user="FuckOSMFandODbL" version="2" />
+	
+<node changeset="25966956" id="569657567" lat="22.512282" lon="88.6477321" timestamp="2014-10-09T18:17:55Z" uid="507276" user="FuckOSMFandODbL" version="2" />
+	
+<node changeset="25966956" id="669234752" lat="22.436968" lon="88.5698152" timestamp="2014-10-09T18:17:56Z" uid="507276" user="FuckOSMFandODbL" version="2" />
+	
+<node changeset="25966956" id="733592900" lat="23.0256526" lon="88.3686767" timestamp="2014-10-09T18:17:56Z" uid="507276" user="FuckOSMFandODbL" version="2" />
+	
+<node changeset="21571719" id="1271382877" lat="22.5423757" lon="88.3598004" timestamp="2014-04-08T13:56:12Z" uid="507276" user="FuckOSMFandODbL" version="3" />
+	
+<node changeset="25966956" id="1324261487" lat="23.0586521" lon="87.8982468" timestamp="2014-10-09T18:17:55Z" uid="507276" user="FuckOSMFandODbL" version="2" />
+	
+<node changeset="25966956" id="1765884992" lat="22.644069" lon="88.2027997" timestamp="2014-10-09T18:17:55Z" uid="507276" user="FuckOSMFandODbL" version="2" />
+	
+<node changeset="25966956" id="1865813384" lat="22.4001719" lon="88.4774395" timestamp="2014-10-09T18:17:55Z" uid="507276" user="FuckOSMFandODbL" version="2" />
+	
+<node changeset="21571719" id="2150470362" lat="22.5422601" lon="88.3597765" timestamp="2014-04-08T13:56:12Z" uid="507276" user="FuckOSMFandODbL" version="2" />
+	
+<node changeset="21571719" id="2150470459" lat="22.542325" lon="88.3597846" timestamp="2014-04-08T13:56:12Z" uid="507276" user="FuckOSMFandODbL" version="3" />
+	
+<node changeset="25966956" id="2428783334" lat="22.6232568" lon="88.0433218" timestamp="2014-10-09T18:17:55Z" uid="507276" user="FuckOSMFandODbL" version="2" />
+	
+<node changeset="25966956" id="2428783702" lat="23.0571539" lon="87.8988043" timestamp="2014-10-09T18:17:55Z" uid="507276" user="FuckOSMFandODbL" version="2" />
+	
+<node changeset="25966956" id="2475801035" lat="22.5245089" lon="87.9809649" timestamp="2014-10-09T18:17:55Z" uid="507276" user="FuckOSMFandODbL" version="2" />
+	
+<node changeset="25966956" id="2475801446" lat="23.0370809" lon="88.0170634" timestamp="2014-10-09T18:17:55Z" uid="507276" user="FuckOSMFandODbL" version="2" />
+	
+<node changeset="21571719" id="2777217859" lat="22.5213402" lon="88.5401834" timestamp="2014-04-08T13:56:03Z" uid="507276" user="FuckOSMFandODbL" version="1">
+		<tag /></node>
+	
+<node changeset="21571719" id="2777217863" lat="22.5227653" lon="88.5400696" timestamp="2014-04-08T13:56:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217865" lat="22.5244323" lon="88.5398191" timestamp="2014-04-08T13:56:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217868" lat="22.5252894" lon="88.5389139" timestamp="2014-04-08T13:56:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217871" lat="22.5262517" lon="88.5385041" timestamp="2014-04-08T13:56:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217873" lat="22.5283919" lon="88.5383674" timestamp="2014-04-08T13:56:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217875" lat="22.5290965" lon="88.5382223" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217878" lat="22.530377" lon="88.5377327" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217881" lat="22.5310821" lon="88.5376613" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217883" lat="22.5314749" lon="88.5374117" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217885" lat="22.5316286" lon="88.5369633" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217888" lat="22.5320299" lon="88.535535" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217889" lat="22.532602" lon="88.5354009" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217890" lat="22.5333406" lon="88.5356505" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217891" lat="22.534075" lon="88.536196" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217893" lat="22.5346455" lon="88.6044597" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1">
+		<tag /></node>
+	
+<node changeset="21571719" id="2777217894" lat="22.5349709" lon="88.374804" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217903" lat="22.5349919" lon="88.3753523" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217906" lat="22.5352021" lon="88.5363578" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217909" lat="22.5354773" lon="88.3754508" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217911" lat="22.535517" lon="88.3748141" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217913" lat="22.5357006" lon="88.5351276" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217915" lat="22.5357273" lon="88.5358308" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217918" lat="22.5361232" lon="88.5338856" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217920" lat="22.5364191" lon="88.5326958" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217922" lat="22.5369927" lon="88.5325912" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217924" lat="22.5374668" lon="88.602885" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217927" lat="22.5377112" lon="88.5331142" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217929" lat="22.5386867" lon="88.3977097" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217931" lat="22.5388463" lon="88.5332515" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217933" lat="22.5391044" lon="88.377953" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217936" lat="22.5391275" lon="88.3770131" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217938" lat="22.5393189" lon="88.3791858" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217940" lat="22.5395406" lon="88.532454" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217942" lat="22.5402728" lon="88.3813548" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1">
+		<tag /></node>
+	
+<node changeset="21571719" id="2777217946" lat="22.5403617" lon="88.5318526" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217948" lat="22.5405441" lon="88.3981856" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217950" lat="22.5412372" lon="88.531176" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217951" lat="22.5413949" lon="88.3838526" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217954" lat="22.5415368" lon="88.3886017" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217956" lat="22.5415764" lon="88.3877262" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217958" lat="22.5416248" lon="88.3981641" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217960" lat="22.5416408" lon="88.6006894" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217963" lat="22.5417712" lon="88.3852248" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217965" lat="22.5418231" lon="88.3984933" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217967" lat="22.5418372" lon="88.3858359" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217969" lat="22.5420121" lon="88.3910173" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217972" lat="22.5420478" lon="88.3985613" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217974" lat="22.5420709" lon="88.3982285" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217976" lat="22.5422938" lon="88.3597519" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217978" lat="22.5424047" lon="88.3981498" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217981" lat="22.5425799" lon="88.3984253" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217983" lat="22.542584" lon="88.3934479" timestamp="2014-04-08T13:56:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217985" lat="22.5426174" lon="88.5304642" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217987" lat="22.5426625" lon="88.397953" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217990" lat="22.5428224" lon="88.3944613" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217992" lat="22.5428277" lon="88.3975987" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217994" lat="22.5428707" lon="88.3941815" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217996" lat="22.5429632" lon="88.398021" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217997" lat="22.5429731" lon="88.3970119" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217998" lat="22.5430227" lon="88.3975773" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777217999" lat="22.5430458" lon="88.3979744" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218000" lat="22.5431152" lon="88.3952121" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218001" lat="22.5431425" lon="88.3959718" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218002" lat="22.543145" lon="88.3984575" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218003" lat="22.5431893" lon="88.3967384" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218004" lat="22.5432441" lon="88.3969761" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218005" lat="22.5432706" lon="88.3962104" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218007" lat="22.5432756" lon="88.3601324" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218008" lat="22.5433862" lon="88.3987116" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218009" lat="22.5437404" lon="88.5303073" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218010" lat="22.5449479" lon="88.5303007" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218013" lat="22.5451939" lon="88.3991839" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218014" lat="22.5452263" lon="88.5303566" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218017" lat="22.5456404" lon="88.5284402" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218018" lat="22.5458189" lon="88.5275828" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218019" lat="22.5464629" lon="88.5266053" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+<node changeset="21571719" id="2777218020" lat="22.5467604" lon="88.399556" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218022" lat="22.5468376" lon="88.5306799" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218023" lat="22.547503" lon="88.5242244" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218024" lat="22.5475501" lon="88.3998763" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218025" lat="22.5478911" lon="88.4000948" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218027" lat="22.548193" lon="88.5310875" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218028" lat="22.5488376" lon="88.531485" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218029" lat="22.5493969" lon="88.5315107" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218031" lat="22.5501318" lon="88.5319621" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218033" lat="22.5517748" lon="88.5329911" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218035" lat="22.5529823" lon="88.5341351" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218037" lat="22.5540086" lon="88.5353314" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218039" lat="22.5556808" lon="88.5376912" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1">
+		<tag /></node>
+	
+<node changeset="21571719" id="2777218042" lat="22.560975" lon="88.5467257" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218044" lat="22.5621382" lon="88.5485019" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218046" lat="22.5630544" lon="88.5497169" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218048" lat="22.5665201" lon="88.5535442" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218051" lat="22.5668495" lon="88.5542651" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218053" lat="22.5674122" lon="88.5545958" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218055" lat="22.5690901" lon="88.5574049" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218057" lat="22.5709567" lon="88.5611468" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218059" lat="22.5715335" lon="88.5090795" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218062" lat="22.5721507" lon="88.5625067" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218064" lat="22.5732384" lon="88.5634952" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218066" lat="22.5748167" lon="88.564413" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218068" lat="22.5768067" lon="88.5653828" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218071" lat="22.57821" lon="88.5658658" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218073" lat="22.5797734" lon="88.4946223" timestamp="2014-04-08T13:56:05Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218075" lat="22.5798388" lon="88.4947124" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218077" lat="22.5801686" lon="88.493908" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218079" lat="22.5803104" lon="88.4940296" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218082" lat="22.5803957" lon="88.494109" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218084" lat="22.5808278" lon="88.5666462" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218086" lat="22.5812796" lon="88.4948379" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218088" lat="22.5823409" lon="88.5669917" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218090" lat="22.5831797" lon="88.5672927" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218091" lat="22.5835589" lon="88.5677572" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218092" lat="22.583653" lon="88.475713" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218093" lat="22.5838694" lon="88.4749614" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218095" lat="22.5840255" lon="88.5679132" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218098" lat="22.5847512" lon="88.4716366" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218100" lat="22.5849895" lon="88.5678798" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218102" lat="22.5864648" lon="88.5683517" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218104" lat="22.5888354" lon="88.5688979" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218106" lat="22.5896657" lon="88.5689648" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218110" lat="22.5908241" lon="88.5693892" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218112" lat="22.5930377" lon="88.5700014" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218114" lat="22.5938598" lon="88.5705579" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218116" lat="22.5948959" lon="88.5708222" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218118" lat="22.5961761" lon="88.5715596" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218124" lat="22.5973407" lon="88.5726169" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218139" lat="22.598745" lon="88.5733543" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218140" lat="22.5996227" lon="88.5746342" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218148" lat="22.6008033" lon="88.5753591" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218150" lat="22.6009492" lon="88.5756128" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218152" lat="22.6010873" lon="88.5711823" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218154" lat="22.6010883" lon="88.5754435" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218157" lat="22.6011479" lon="88.5692868" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218159" lat="22.6011902" lon="88.5702576" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218161" lat="22.6015203" lon="88.5683686" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218163" lat="22.6017957" lon="88.5746255" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218166" lat="22.6018078" lon="88.5729859" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218168" lat="22.6018286" lon="88.5679883" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218170" lat="22.6018926" lon="88.5741074" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218172" lat="22.6022182" lon="88.5671535" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218175" lat="22.6028476" lon="88.5666805" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218177" lat="22.6032414" lon="88.5652429" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218179" lat="22.6032628" lon="88.5638841" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218181" lat="22.6035668" lon="88.562734" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218184" lat="22.6041105" lon="88.5620708" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218186" lat="22.6052108" lon="88.558486" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218188" lat="22.606703" lon="88.5362644" timestamp="2014-04-08T13:56:06Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218190" lat="22.6067244" lon="88.5375907" timestamp="2014-04-08T13:56:07Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218193" lat="22.6068034" lon="88.5533152" timestamp="2014-04-08T13:56:07Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218195" lat="22.606947" lon="88.5342193" timestamp="2014-04-08T13:56:07Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218197" lat="22.6070412" lon="88.5331016" timestamp="2014-04-08T13:56:07Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218200" lat="22.6078052" lon="88.5501571" timestamp="2014-04-08T13:56:07Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="21571719" id="2777218202" lat="22.610203" lon="88.5228815" timestamp="2014-04-08T13:56:07Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3036986952" lat="22.4680195" lon="88.1799634" timestamp="2014-10-09T18:17:55Z" uid="507276" user="FuckOSMFandODbL" version="2" />
+	
+<node changeset="25966956" id="3120968361" lat="22.4004534" lon="88.4900448" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968362" lat="22.4009335" lon="88.4891203" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968363" lat="22.40103" lon="88.4868061" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968364" lat="22.4010609" lon="88.4884519" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968365" lat="22.40146" lon="88.4784682" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968366" lat="22.4014909" lon="88.4845336" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968367" lat="22.4015758" lon="88.4776829" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968368" lat="22.4017593" lon="88.4826142" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968369" lat="22.4019543" lon="88.478652" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968370" lat="22.4019601" lon="88.4812754" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968371" lat="22.4020856" lon="88.4789507" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968372" lat="22.4023019" lon="88.4790489" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968373" lat="22.4059564" lon="88.4935725" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968375" lat="22.4100483" lon="88.0268419" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968376" lat="22.4119422" lon="88.4977331" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968377" lat="22.4145954" lon="88.0252817" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968378" lat="22.4187387" lon="88.5024284" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968379" lat="22.4193991" lon="88.025004" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968380" lat="22.4225848" lon="88.5050851" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968383" lat="22.4246549" lon="88.0231132" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968384" lat="22.4290916" lon="88.026075" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968385" lat="22.4346281" lon="88.0268816" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968386" lat="22.4373032" lon="88.5700556" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968387" lat="22.4376198" lon="88.5707031" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968388" lat="22.437948" lon="88.5897327" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968389" lat="22.4381449" lon="88.5710185" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968390" lat="22.4382144" lon="88.5743645" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968392" lat="22.438558" lon="88.5716159" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968393" lat="22.4385619" lon="88.5843357" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968394" lat="22.4385773" lon="88.5711898" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968395" lat="22.4386198" lon="88.5757723" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968396" lat="22.4387009" lon="88.5810899" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+<node changeset="25966956" id="3120968397" lat="22.4388128" lon="88.5822596" timestamp="2014-10-09T18:17:19Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968398" lat="22.4388811" lon="88.0275691" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968399" lat="22.4389016" lon="88.5922224" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968400" lat="22.4389981" lon="88.579135" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968401" lat="22.439087" lon="88.5778776" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968402" lat="22.439836" lon="88.5942108" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968403" lat="22.4404821" lon="88.0267626" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968404" lat="22.4411176" lon="88.0189614" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968405" lat="22.4437471" lon="88.0128152" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968406" lat="22.4452453" lon="88.007804" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968407" lat="22.4466652" lon="88.0056321" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968408" lat="22.4487704" lon="88.0060029" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968409" lat="22.450922" lon="88.0064047" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968410" lat="22.4517731" lon="88.0091535" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968411" lat="22.4522052" lon="88.0099108" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968412" lat="22.4533137" lon="88.0064161" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968413" lat="22.4535229" lon="88.0118041" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968414" lat="22.454616" lon="88.0127016" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968415" lat="22.4556244" lon="88.0057698" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968416" lat="22.4575365" lon="88.0140947" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968417" lat="22.4588066" lon="88.0013625" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968418" lat="22.4619592" lon="87.9975273" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968419" lat="22.4628129" lon="88.1313918" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968420" lat="22.4628346" lon="88.0165299" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968421" lat="22.4635408" lon="88.1324024" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968422" lat="22.4645342" lon="87.9969869" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968423" lat="22.4657947" lon="88.1343525" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968424" lat="22.4670929" lon="88.0872098" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968425" lat="22.4673862" lon="88.0806648" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968426" lat="22.4676366" lon="88.0725859" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968427" lat="22.4679054" lon="88.0651087" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120968428" lat="22.4679788" lon="88.0700747" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970129" lat="22.4682034" lon="88.0710517" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970130" lat="22.4682048" lon="88.0608511" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970131" lat="22.4682164" lon="88.0636609" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970132" lat="22.4682812" lon="88.0717343" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970133" lat="22.4684064" lon="88.0191347" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970134" lat="22.4685792" lon="88.059692" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970135" lat="22.4690966" lon="87.9981947" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970136" lat="22.469102" lon="88.0564944" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970137" lat="22.4692375" lon="88.1366497" timestamp="2014-10-09T18:17:20Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970138" lat="22.4693655" lon="88.0546946" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970139" lat="22.4694043" lon="88.0560503" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970140" lat="22.4694346" lon="88.0553725" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970141" lat="22.4695771" lon="88.0533857" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970142" lat="22.4696099" lon="88.0515823" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970143" lat="22.4702299" lon="88.1629004" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970144" lat="22.4702533" lon="88.1639262" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970145" lat="22.4703493" lon="88.1622673" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970146" lat="22.470361" lon="88.1648785" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970147" lat="22.4704897" lon="88.0210387" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970148" lat="22.4705037" lon="88.1618924" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970149" lat="22.4705552" lon="88.1654382" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970150" lat="22.4707953" lon="88.0459528" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970151" lat="22.4708501" lon="88.044072" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970152" lat="22.4709366" lon="88.1379692" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970153" lat="22.4710326" lon="88.1662816" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970154" lat="22.4712292" lon="88.1608996" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970155" lat="22.4715343" lon="88.039074" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970156" lat="22.4715755" lon="88.1385897" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970157" lat="22.4715816" lon="88.041105" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970158" lat="22.4715832" lon="88.022989" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970159" lat="22.4717112" lon="88.0400345" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970160" lat="22.4717543" lon="88.0297523" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970161" lat="22.4718276" lon="88.0244369" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970162" lat="22.471845" lon="88.1597438" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970163" lat="22.4721031" lon="88.1590417" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970164" lat="22.4721653" lon="88.1394103" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970165" lat="22.4724639" lon="88.1563447" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970166" lat="22.4725398" lon="88.1688624" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970167" lat="22.4726825" lon="88.1403322" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970168" lat="22.4727088" lon="88.1523331" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970169" lat="22.4729471" lon="88.1478667" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970170" lat="22.472993" lon="87.9980358" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970171" lat="22.4730055" lon="88.141168" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970172" lat="22.4730266" lon="88.1473796" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970173" lat="22.4732676" lon="88.146555" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970174" lat="22.473387" lon="88.1427332" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970175" lat="22.4734385" lon="88.146013" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970176" lat="22.4735461" lon="88.1437716" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970177" lat="22.4736046" lon="88.1453723" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970178" lat="22.4738177" lon="88.1710683" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970179" lat="22.4750295" lon="88.1731093" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970180" lat="22.4753489" lon="88.1736734" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970181" lat="22.4755391" lon="88.1740112" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970182" lat="22.4755972" lon="87.9956626" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970183" lat="22.476308" lon="88.1752262" timestamp="2014-10-09T18:17:21Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970184" lat="22.4769984" lon="88.1758644" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970185" lat="22.4770461" lon="87.9889562" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970186" lat="22.4774945" lon="88.1760899" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970187" lat="22.4784376" lon="88.1763153" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970188" lat="22.4790125" lon="87.9681919" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970189" lat="22.4791704" lon="87.9818367" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970190" lat="22.4793355" lon="87.9713914" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970191" lat="22.4796335" lon="88.1761988" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970192" lat="22.4797467" lon="87.9659352" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970193" lat="22.4797676" lon="87.979294" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970194" lat="22.4799033" lon="87.9751207" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970195" lat="22.4809979" lon="88.1758543" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970196" lat="22.4811662" lon="87.964452" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970197" lat="22.4815525" lon="88.1759885" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970198" lat="22.4820697" lon="88.176257" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+<node changeset="25966956" id="3120970199" lat="22.4841782" lon="88.1786757" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970200" lat="22.4865699" lon="87.9627992" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970202" lat="22.486991" lon="88.181839" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970205" lat="22.4888912" lon="88.1838829" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970206" lat="22.4894107" lon="88.1844933" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970207" lat="22.4898123" lon="88.1851168" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970208" lat="22.4926093" lon="88.5870991" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970209" lat="22.4926147" lon="88.5883693" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970210" lat="22.4929095" lon="88.5897989" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970211" lat="22.4934416" lon="87.9618351" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970212" lat="22.4940666" lon="88.5933553" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970213" lat="22.4953489" lon="88.5797984" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970214" lat="22.4955894" lon="88.5948026" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970215" lat="22.4968721" lon="88.5959369" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970216" lat="22.4970085" lon="88.5742343" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970217" lat="22.4971559" lon="88.5966753" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970218" lat="22.497267" lon="88.5711848" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970219" lat="22.4973944" lon="88.5666608" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970220" lat="22.4974446" lon="88.5658588" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970221" lat="22.4974909" lon="88.5643257" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970222" lat="22.4979694" lon="88.5627217" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970223" lat="22.4979932" lon="87.9605744" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970224" lat="22.4980237" lon="88.6003971" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970225" lat="22.4987529" lon="88.5607625" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970226" lat="22.4990443" lon="88.6047982" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970227" lat="22.49927" lon="88.5576839" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970228" lat="22.5003468" lon="88.5546804" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970329" lat="22.5007482" lon="88.5535985" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970330" lat="22.5007745" lon="88.6078879" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970331" lat="22.5013565" lon="87.9600649" timestamp="2014-10-09T18:17:22Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970332" lat="22.502508" lon="88.5504279" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970333" lat="22.5029101" lon="88.615324" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970334" lat="22.5042446" lon="88.5449181" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970335" lat="22.5046896" lon="88.621561" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970336" lat="22.5049007" lon="88.542654" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970337" lat="22.5050874" lon="88.7401505" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970338" lat="22.5051129" lon="88.5414969" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970339" lat="22.5051246" lon="88.738483" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970340" lat="22.5055748" lon="88.7450952" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970341" lat="22.5056154" lon="88.6235824" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970342" lat="22.5057111" lon="88.7462978" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970343" lat="22.5057854" lon="88.7481353" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970344" lat="22.5059796" lon="88.7349287" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970345" lat="22.5064524" lon="88.6281066" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970346" lat="22.5064845" lon="87.9610722" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970347" lat="22.5065619" lon="88.5378054" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970348" lat="22.5067065" lon="88.7732071" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970349" lat="22.5067271" lon="88.7739448" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970350" lat="22.5068181" lon="88.6318047" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970351" lat="22.5068221" lon="88.7319199" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970352" lat="22.5068758" lon="88.7502633" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970353" lat="22.5069445" lon="88.6280127" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970354" lat="22.5069543" lon="88.7746199" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970355" lat="22.5070121" lon="88.7719464" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970356" lat="22.5071856" lon="88.7624908" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970357" lat="22.507231" lon="88.7631569" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970358" lat="22.5074207" lon="88.5354231" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970359" lat="22.5074582" lon="88.7750491" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970360" lat="22.5074839" lon="88.6336774" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970361" lat="22.5075288" lon="88.5350639" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970362" lat="22.5075738" lon="88.7634654" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970363" lat="22.5076077" lon="88.5382816" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970364" lat="22.5079621" lon="88.7695277" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970365" lat="22.5080942" lon="88.7695858" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970366" lat="22.5080955" lon="88.7275653" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970367" lat="22.5081107" lon="88.7609841" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970368" lat="22.5084008" lon="88.6351425" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970369" lat="22.5085223" lon="88.5385991" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970370" lat="22.5089529" lon="88.6352199" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970371" lat="22.5090483" lon="88.7647619" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970372" lat="22.5091433" lon="88.770024" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970373" lat="22.5092088" lon="88.7246647" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970374" lat="22.5094448" lon="88.7573986" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970375" lat="22.5096183" lon="88.7559635" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970376" lat="22.5096884" lon="88.5407389" timestamp="2014-10-09T18:17:23Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970377" lat="22.509705" lon="88.7694741" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970378" lat="22.5097109" lon="88.5387745" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970379" lat="22.5097156" lon="88.5399236" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970380" lat="22.509738" lon="88.7565715" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970381" lat="22.5098826" lon="88.7681284" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970382" lat="22.5099067" lon="88.542139" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970383" lat="22.5099394" lon="88.5388662" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970384" lat="22.509994" lon="88.5392088" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970385" lat="22.5100189" lon="88.7669257" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970386" lat="22.5101717" lon="88.76613" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970387" lat="22.5110746" lon="88.542517" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970388" lat="22.511134" lon="88.7774454" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970389" lat="22.5115119" lon="88.7188044" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970390" lat="22.5115387" lon="88.7775706" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970391" lat="22.5122574" lon="88.777423" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970392" lat="22.5124066" lon="88.6499469" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970393" lat="22.51261" lon="88.5421663" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970394" lat="22.5130421" lon="88.7774856" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970395" lat="22.5136236" lon="88.6552814" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970396" lat="22.5138695" lon="88.712761" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970397" lat="22.5140415" lon="88.7787329" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970398" lat="22.5145433" lon="88.5417109" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970399" lat="22.5145939" lon="87.9659239" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970400" lat="22.5149719" lon="88.7104629" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+<node changeset="25966956" id="3120970401" lat="22.515037" lon="88.6614666" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970402" lat="22.5152359" lon="88.6603772" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970403" lat="22.5157203" lon="88.5414269" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970404" lat="22.5159002" lon="88.7810621" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970405" lat="22.516298" lon="88.7078281" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970407" lat="22.5168727" lon="87.9675171" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970408" lat="22.5174799" lon="88.5411387" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970409" lat="22.517782" lon="88.6712023" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970410" lat="22.5178568" lon="88.7822065" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970411" lat="22.5179172" lon="87.9697271" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970412" lat="22.5180716" lon="88.7043722" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970413" lat="22.5189076" lon="88.5410092" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970414" lat="22.5198922" lon="87.9721426" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970415" lat="22.5203636" lon="88.7008631" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970416" lat="22.5205322" lon="88.5406624" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970417" lat="22.5207906" lon="88.7836072" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970418" lat="22.5209857" lon="88.6997407" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970419" lat="22.5209963" lon="88.6832065" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970420" lat="22.5217224" lon="88.6959008" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970421" lat="22.5218588" lon="88.6921494" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970422" lat="22.5218697" lon="88.6912101" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970423" lat="22.5218915" lon="88.6909089" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970424" lat="22.5224145" lon="88.6880341" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970425" lat="22.5227232" lon="88.6897301" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970426" lat="22.5227618" lon="88.6893583" timestamp="2014-10-09T18:17:24Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970429" lat="22.5262955" lon="88.7884937" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970430" lat="22.5279349" lon="88.7894907" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970431" lat="22.531635" lon="88.7916053" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970432" lat="22.5326095" lon="88.792562" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970435" lat="22.5376143" lon="88.7959285" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970436" lat="22.5383948" lon="88.7956111" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970439" lat="22.541471" lon="88.7957586" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970440" lat="22.5423547" lon="88.797225" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970441" lat="22.5429162" lon="88.798374" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970445" lat="22.5468697" lon="88.8007609" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970446" lat="22.5484519" lon="88.8008281" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970448" lat="22.5508406" lon="88.8023061" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970450" lat="22.5520461" lon="88.803669" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970451" lat="22.5521125" lon="88.8053677" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970452" lat="22.5522809" lon="88.8059195" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970454" lat="22.5524784" lon="88.8187409" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970455" lat="22.5526721" lon="88.8217652" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970456" lat="22.5527785" lon="88.8202968" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970457" lat="22.5527918" lon="88.8170137" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970458" lat="22.5531008" lon="88.8160352" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970461" lat="22.5537535" lon="88.8229937" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970462" lat="22.5546785" lon="88.8121531" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970463" lat="22.5549057" lon="88.8229217" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970465" lat="22.5555382" lon="88.8090339" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970466" lat="22.5555914" lon="88.8100128" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970467" lat="22.5564169" lon="88.8229409" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970468" lat="22.5571924" lon="88.8229217" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970469" lat="22.5574583" lon="88.8230657" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970471" lat="22.5587479" lon="88.8258633" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970472" lat="22.5593018" lon="88.8261992" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970473" lat="22.5597494" lon="88.8266071" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970474" lat="22.5624748" lon="88.8292032" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970475" lat="22.5648721" lon="88.8314778" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970476" lat="22.5713107" lon="88.8376345" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970477" lat="22.5726327" lon="88.0346257" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970478" lat="22.5727282" lon="88.0381002" timestamp="2014-10-09T18:17:25Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970479" lat="22.5728179" lon="88.039015" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970481" lat="22.5733646" lon="88.042386" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970483" lat="22.5740198" lon="88.8435464" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970486" lat="22.5746208" lon="88.0502158" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970487" lat="22.5747108" lon="88.052409" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970488" lat="22.5747332" lon="88.0556859" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970489" lat="22.5747775" lon="88.8481244" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970490" lat="22.5748804" lon="88.0561433" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970491" lat="22.5756681" lon="88.8506053" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970492" lat="22.5759908" lon="88.0568474" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970493" lat="22.5766518" lon="88.8530526" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970494" lat="22.5773164" lon="88.8536957" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970495" lat="22.5778393" lon="88.8539644" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970500" lat="22.5788362" lon="88.856834" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970501" lat="22.5790179" lon="88.858552" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970504" lat="22.5796164" lon="88.059227" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970506" lat="22.5806678" lon="88.9116006" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970509" lat="22.5809014" lon="88.9080429" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970510" lat="22.5810158" lon="88.9056314" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970511" lat="22.5810826" lon="88.9133614" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970512" lat="22.581259" lon="88.904134" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970515" lat="22.5817262" lon="88.9025384" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970516" lat="22.5818625" lon="88.8633554" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970517" lat="22.5818705" lon="88.0608099" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970518" lat="22.5823144" lon="88.86432" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970519" lat="22.5823413" lon="88.9013094" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970521" lat="22.5825444" lon="88.0617145" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970522" lat="22.5825511" lon="88.9000702" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970525" lat="22.5832996" lon="88.920761" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970526" lat="22.5835237" lon="88.921551" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970629" lat="22.5838531" lon="88.0624946" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970630" lat="22.5839385" lon="88.9228832" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970633" lat="22.5849218" lon="88.0633616" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970635" lat="22.5851065" lon="88.8946173" timestamp="2014-10-09T18:17:26Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970638" lat="22.5858664" lon="88.0604341" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970639" lat="22.5858993" lon="88.0640375" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970643" lat="22.5870105" lon="88.0646564" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970650" lat="22.5881548" lon="88.0578284" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970651" lat="22.5882085" lon="88.0579974" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970654" lat="22.5883258" lon="88.0659283" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970655" lat="22.5896713" lon="88.0676291" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970656" lat="22.5914194" lon="88.0688647" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970657" lat="22.5921508" lon="88.0694498" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970658" lat="22.592483" lon="88.0697296" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970659" lat="22.5938452" lon="88.0712378" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970660" lat="22.5962375" lon="88.0738689" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970661" lat="22.5968045" lon="88.0740724" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970662" lat="22.59816" lon="88.0743523" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970663" lat="22.5988517" lon="88.0750048" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970664" lat="22.5998908" lon="88.0753389" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970672" lat="22.6254436" lon="88.0450187" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970673" lat="22.6267882" lon="88.0471139" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970674" lat="22.6287958" lon="88.0502368" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970675" lat="22.6301124" lon="88.0525102" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970676" lat="22.6313779" lon="88.0545709" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970677" lat="22.6329367" lon="88.0607095" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970678" lat="22.6349011" lon="88.0671002" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970679" lat="22.6355735" lon="88.0691597" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970680" lat="22.6363465" lon="88.0707086" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970681" lat="22.6385862" lon="88.0733532" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970682" lat="22.6418" lon="88.0767952" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970683" lat="22.6425148" lon="88.0779139" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970684" lat="22.6447861" lon="88.0831572" timestamp="2014-10-09T18:17:27Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970685" lat="22.645575" lon="88.0843218" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970686" lat="22.6461944" lon="88.1987492" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970687" lat="22.6467725" lon="88.1975067" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970688" lat="22.647195" lon="88.1959096" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970689" lat="22.647554" lon="88.1950904" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970690" lat="22.6480581" lon="88.0855896" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970691" lat="22.6481798" lon="88.1937652" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970692" lat="22.648974" lon="88.0857846" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970693" lat="22.6493138" lon="88.1918721" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970694" lat="22.6496854" lon="88.1911217" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970695" lat="22.6503452" lon="88.0855379" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970696" lat="22.6511784" lon="88.1863201" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970697" lat="22.6518741" lon="88.1839279" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970698" lat="22.6521758" lon="88.1830674" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970699" lat="22.6525158" lon="88.0861575" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970702" lat="22.6549092" lon="88.1744088" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970703" lat="22.6554064" lon="88.0869549" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970706" lat="22.6558882" lon="88.0873679" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970707" lat="22.6561158" lon="88.0882055" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970708" lat="22.6571642" lon="88.1671899" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970709" lat="22.6574022" lon="88.0970916" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970710" lat="22.6576524" lon="88.1061786" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970711" lat="22.6578433" lon="88.1042721" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970712" lat="22.6579263" lon="88.1016523" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970713" lat="22.6580957" lon="88.1006885" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970714" lat="22.6582281" lon="88.098893" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+<node changeset="25966956" id="3120970715" lat="22.658371" lon="88.0995928" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970716" lat="22.6588353" lon="88.1109652" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970718" lat="22.6591991" lon="88.1606331" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970719" lat="22.6596034" lon="88.1594113" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970720" lat="22.6596528" lon="88.1558092" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970722" lat="22.6598235" lon="88.1582041" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970723" lat="22.6598819" lon="88.1547237" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970724" lat="22.6620335" lon="88.1489262" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970725" lat="22.6623659" lon="88.1425008" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970726" lat="22.6623884" lon="88.1436593" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970727" lat="22.6627163" lon="88.1450709" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970728" lat="22.6628556" lon="88.1462587" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970729" lat="22.6631116" lon="88.1371852" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970730" lat="22.6632508" lon="88.1366254" timestamp="2014-10-09T18:17:28Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970731" lat="22.6638513" lon="88.1359651" timestamp="2014-10-09T18:17:29Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970732" lat="22.6641807" lon="88.1190173" timestamp="2014-10-09T18:17:29Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970733" lat="22.6647609" lon="88.1351254" timestamp="2014-10-09T18:17:29Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970734" lat="22.6651502" lon="88.1349105" timestamp="2014-10-09T18:17:29Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970735" lat="22.6653561" lon="88.1205871" timestamp="2014-10-09T18:17:29Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970736" lat="22.666101" lon="88.1210333" timestamp="2014-10-09T18:17:29Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970741" lat="22.667441" lon="88.121009" timestamp="2014-10-09T18:17:29Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970743" lat="22.6680137" lon="88.1211307" timestamp="2014-10-09T18:17:29Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970744" lat="22.6687848" lon="88.1216337" timestamp="2014-10-09T18:17:29Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970745" lat="22.6689233" lon="88.1250127" timestamp="2014-10-09T18:17:29Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970746" lat="22.6692077" lon="88.1236903" timestamp="2014-10-09T18:17:29Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970747" lat="22.6692489" lon="88.122522" timestamp="2014-10-09T18:17:29Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970748" lat="22.6692863" lon="88.1229399" timestamp="2014-10-09T18:17:29Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970871" lat="22.9914801" lon="88.0010497" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970872" lat="22.9926957" lon="88.0010671" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970873" lat="22.9939434" lon="88.0016779" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970874" lat="22.995341" lon="88.0020153" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970875" lat="22.9959783" lon="88.0018292" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970877" lat="22.9980934" lon="88.0017536" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970879" lat="23.000321" lon="88.0016314" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970880" lat="23.0012045" lon="88.0012067" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970881" lat="23.0015043" lon="88.0010962" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970884" lat="23.0034963" lon="88.000031" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970885" lat="23.0040188" lon="88.0003231" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970887" lat="23.0065451" lon="88.3632459" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970889" lat="23.006828" lon="88.3637867" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970891" lat="23.0076387" lon="88.3650228" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970892" lat="23.0092664" lon="88.001446" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970893" lat="23.0094213" lon="88.3665691" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970894" lat="23.0099479" lon="88.0015488" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970895" lat="23.0100569" lon="88.3666142" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970896" lat="23.0105271" lon="88.0012074" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970897" lat="23.0111071" lon="88.3667993" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970898" lat="23.0111783" lon="88.0005658" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970899" lat="23.0117152" lon="88.3669194" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970900" lat="23.0118901" lon="88.0001956" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970901" lat="23.0123646" lon="88.3669495" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970902" lat="23.013857" lon="88.3669645" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970904" lat="23.0143222" lon="88.3672297" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970905" lat="23.0152431" lon="87.9993661" timestamp="2014-10-09T18:17:32Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970906" lat="23.0155011" lon="87.9990936" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970907" lat="23.0157501" lon="88.3678953" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970908" lat="23.0162069" lon="87.9990313" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970909" lat="23.0165469" lon="88.3680004" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970910" lat="23.0168417" lon="88.3676551" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970911" lat="23.0173576" lon="88.3669945" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970912" lat="23.0174214" lon="87.9992143" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970913" lat="23.0181701" lon="87.9991753" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970914" lat="23.0191032" lon="88.3667643" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970915" lat="23.0193932" lon="87.998572" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970916" lat="23.0209982" lon="87.9986732" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970917" lat="23.0218867" lon="87.9987511" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970918" lat="23.0234844" lon="87.9984786" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970919" lat="23.025032" lon="87.9988367" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970921" lat="23.0267802" lon="87.9986499" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970922" lat="23.0272279" lon="88.3693534" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970923" lat="23.028126" lon="88.3697487" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970924" lat="23.0283349" lon="87.9986187" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970925" lat="23.0285958" lon="88.3698638" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970926" lat="23.0291162" lon="88.3699239" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970927" lat="23.0291642" lon="87.9988607" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970928" lat="23.0295491" lon="88.370019" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970929" lat="23.0305254" lon="87.9993512" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970930" lat="23.0307281" lon="88.3703342" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970931" lat="23.0308013" lon="87.9997171" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970932" lat="23.0309625" lon="88.0004956" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970933" lat="23.0310229" lon="88.3701541" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970934" lat="23.0315284" lon="88.0009588" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970935" lat="23.0318334" lon="88.3702992" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970936" lat="23.0322843" lon="88.0017801" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970937" lat="23.0325995" lon="88.0027649" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970938" lat="23.0330585" lon="88.3701641" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+<node changeset="25966956" id="3120970939" lat="23.0332264" lon="88.0049641" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970940" lat="23.0333948" lon="88.0039793" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970941" lat="23.0334269" lon="88.3695686" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970942" lat="23.0335309" lon="88.0063226" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970943" lat="23.0336618" lon="88.3678571" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970944" lat="23.0337999" lon="88.3674217" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970945" lat="23.0339142" lon="88.0076227" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970946" lat="23.034417" lon="88.366566" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970947" lat="23.0346736" lon="88.0089812" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970948" lat="23.0350203" lon="88.3664959" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970950" lat="23.0357204" lon="88.366601" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970951" lat="23.0362175" lon="88.0106666" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970952" lat="23.0371676" lon="88.0147642" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970953" lat="23.0373341" lon="88.013629" timestamp="2014-10-09T18:17:33Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970954" lat="23.037498" lon="88.3673316" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970955" lat="23.0375858" lon="88.0110831" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970956" lat="23.0379476" lon="88.0112193" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970957" lat="23.0382653" lon="88.0124032" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970958" lat="23.0383846" lon="88.0118538" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970960" lat="23.039294" lon="88.367742" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970961" lat="23.039416" lon="88.0123806" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970962" lat="23.0401644" lon="88.3676119" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970964" lat="23.0430334" lon="88.3680873" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970965" lat="23.0528698" lon="88.0091548" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970966" lat="23.0603741" lon="87.8977242" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970967" lat="23.065907" lon="88.0067877" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970968" lat="23.0676094" lon="88.006463" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970969" lat="23.0694287" lon="88.0057356" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970970" lat="23.0702617" lon="88.0052586" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970971" lat="23.071014" lon="88.0052683" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970972" lat="23.0743639" lon="88.0069526" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970973" lat="23.0757073" lon="88.0078385" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970975" lat="23.0891719" lon="88.0102465" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970976" lat="23.0998356" lon="88.0092415" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="25966956" id="3120970977" lat="23.1018305" lon="87.9648907" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1">
+		<tag /></node>
+	
+<node changeset="25966956" id="3120970978" lat="23.1023144" lon="87.9694992" timestamp="2014-10-09T18:17:34Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033247" lat="22.422985" lon="88.4644569" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033248" lat="22.4232619" lon="88.46484" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033249" lat="22.4249011" lon="88.4670111" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033250" lat="22.4271577" lon="88.4701597" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033251" lat="22.4281748" lon="88.4714368" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033252" lat="22.428983" lon="88.4722719" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033253" lat="22.4312077" lon="88.4732445" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033254" lat="22.4328414" lon="88.4737458" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033255" lat="22.4335082" lon="88.4744367" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033256" lat="22.4339966" lon="88.476042" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033257" lat="22.4346446" lon="88.4774747" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033258" lat="22.4373305" lon="88.480411" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033259" lat="22.4399224" lon="88.4807361" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033260" lat="22.4419133" lon="88.4822602" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033261" lat="22.4442985" lon="88.4826869" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033262" lat="22.4453972" lon="88.4834794" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033263" lat="22.4459137" lon="88.4850847" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033264" lat="22.4475759" lon="88.4857147" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033265" lat="22.4499516" lon="88.4858163" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033266" lat="22.4527544" lon="88.62328" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033267" lat="22.4529565" lon="88.4862024" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033268" lat="22.4531559" lon="88.6236555" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033269" lat="22.4537302" lon="88.6250635" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033270" lat="22.4542712" lon="88.625769" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033271" lat="22.4547688" lon="88.4875842" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033272" lat="22.4548178" lon="88.6262523" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033273" lat="22.4555364" lon="88.6274771" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033274" lat="22.4556973" lon="88.6278524" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033275" lat="22.4559335" lon="88.6284829" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033276" lat="22.4559359" lon="88.4794114" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033277" lat="22.4561753" lon="88.4815857" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033278" lat="22.4562121" lon="88.6297947" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033279" lat="22.4563443" lon="88.4826525" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033280" lat="22.4565849" lon="88.6308222" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033281" lat="22.4572479" lon="88.6317647" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033282" lat="22.4574429" lon="88.484202" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033283" lat="22.4574805" lon="88.4896123" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033284" lat="22.4576824" lon="88.472101" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033285" lat="22.4577622" lon="88.4778314" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033286" lat="22.4580721" lon="88.4859241" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033287" lat="22.4580861" lon="88.4701096" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033288" lat="22.4581988" lon="88.4736352" timestamp="2015-06-13T00:09:00Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033289" lat="22.4582014" lon="88.631977" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033290" lat="22.4583256" lon="88.4770999" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033291" lat="22.458396" lon="88.4894142" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033292" lat="22.4585603" lon="88.4744277" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033393" lat="22.4587434" lon="88.4869199" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033394" lat="22.4587776" lon="88.4605682" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033395" lat="22.4589077" lon="88.4757994" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033396" lat="22.4589923" lon="88.4698048" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033397" lat="22.4590489" lon="88.6330214" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033398" lat="22.4594007" lon="88.4884693" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033399" lat="22.4595181" lon="88.4877581" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033400" lat="22.45967" lon="88.4606238" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033401" lat="22.4597394" lon="88.6342611" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033402" lat="22.4609871" lon="88.6361334" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033403" lat="22.4612877" lon="88.4613046" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033404" lat="22.4612974" lon="88.4694034" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033405" lat="22.4618385" lon="88.6376575" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033406" lat="22.4622387" lon="88.6383835" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033407" lat="22.4622494" lon="88.4422702" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033408" lat="22.4625809" lon="88.6460834" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033409" lat="22.4626193" lon="88.6395553" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033410" lat="22.4626919" lon="88.6473623" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033411" lat="22.4628795" lon="88.469058" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033412" lat="22.462936" lon="88.6444203" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033413" lat="22.4629416" lon="88.6413461" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033414" lat="22.4629836" lon="88.4426007" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033415" lat="22.462997" lon="88.6427871" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033416" lat="22.4631622" lon="88.4615199" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033417" lat="22.4631912" lon="88.6486532" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033418" lat="22.4633078" lon="88.6493497" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033419" lat="22.4635096" lon="88.6696441" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033420" lat="22.463563" lon="88.6509288" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+<node changeset="31934685" id="3591033421" lat="22.4636747" lon="88.4426642" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033422" lat="22.4640051" lon="88.6679904" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033423" lat="22.4641337" lon="88.6666806" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033424" lat="22.464176" lon="88.6531627" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033425" lat="22.4642316" lon="88.4691444" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033426" lat="22.4644622" lon="88.6541382" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033427" lat="22.4645531" lon="88.6554841" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033428" lat="22.4645574" lon="88.664859" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033429" lat="22.4646002" lon="88.442584" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033430" lat="22.4649205" lon="88.6588541" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033431" lat="22.4650151" lon="88.6572618" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033432" lat="22.4650673" lon="88.4692714" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033433" lat="22.4652723" lon="88.6635942" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033434" lat="22.4652837" lon="88.6604014" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033435" lat="22.4656657" lon="88.6622802" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033436" lat="22.4661057" lon="88.4426975" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033437" lat="22.4661968" lon="88.6710456" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033438" lat="22.4663652" lon="88.4605277" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033439" lat="22.4664351" lon="88.6709228" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033440" lat="22.4666055" lon="88.4428244" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033441" lat="22.4666071" lon="88.4673714" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033442" lat="22.4666723" lon="88.4499011" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033443" lat="22.4668606" lon="88.4662893" timestamp="2015-06-13T00:09:01Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033445" lat="22.466981" lon="88.4479707" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033446" lat="22.4670405" lon="88.4440229" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033447" lat="22.4671452" lon="88.4119122" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033448" lat="22.4671472" lon="88.4127385" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033449" lat="22.467183" lon="88.414336" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033450" lat="22.4671943" lon="88.4454853" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033451" lat="22.4672132" lon="88.4105387" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033452" lat="22.467276" lon="88.4476515" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033453" lat="22.4673441" lon="88.4465021" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033454" lat="22.4673731" lon="88.4094206" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033455" lat="22.467398" lon="88.41576" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033456" lat="22.4674168" lon="88.4449892" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033457" lat="22.4674296" lon="88.408922" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033458" lat="22.4674531" lon="88.4445078" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033459" lat="22.4674786" lon="88.4443434" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033460" lat="22.4675711" lon="88.4429212" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033461" lat="22.4675802" lon="88.4439527" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033462" lat="22.4678089" lon="88.4172049" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033463" lat="22.4678616" lon="88.4481377" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033464" lat="22.4680114" lon="88.4414427" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033465" lat="22.4680568" lon="88.4422581" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033466" lat="22.4680613" lon="88.4436384" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033467" lat="22.46837" lon="88.4411922" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033468" lat="22.4683805" lon="88.4528551" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033469" lat="22.4684895" lon="88.4507872" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033470" lat="22.4685407" lon="88.4189346" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033471" lat="22.4685535" lon="88.4200738" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033472" lat="22.4686164" lon="88.4655171" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033473" lat="22.4686847" lon="88.4520496" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033474" lat="22.4686968" lon="88.4535213" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033475" lat="22.4687653" lon="88.4215396" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033476" lat="22.468774" lon="88.4526862" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033477" lat="22.4687936" lon="88.4543877" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033478" lat="22.4688239" lon="88.4413641" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033479" lat="22.4688254" lon="88.4513914" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033480" lat="22.4690863" lon="88.4233457" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033481" lat="22.4691386" lon="88.4590885" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033482" lat="22.4691598" lon="88.4540125" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033483" lat="22.4691916" lon="88.4487419" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033484" lat="22.4692566" lon="88.455709" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033485" lat="22.4693201" lon="88.4566816" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033486" lat="22.469414" lon="88.4518021" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033487" lat="22.4695908" lon="88.4617255" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033488" lat="22.4696357" lon="88.4602181" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033489" lat="22.4696954" lon="88.4512421" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033490" lat="22.4697475" lon="88.4255825" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033491" lat="22.4697994" lon="88.4648211" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033492" lat="22.469827" lon="88.450186" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033493" lat="22.4700016" lon="88.4592664" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033494" lat="22.4700131" lon="88.4549605" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033495" lat="22.4700749" lon="88.4267773" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033496" lat="22.4702401" lon="88.4407059" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033497" lat="22.4704988" lon="88.4559527" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033498" lat="22.470528" lon="88.4636706" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033499" lat="22.4705458" lon="88.4641353" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033500" lat="22.4705987" lon="88.4567828" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033501" lat="22.4708195" lon="88.4286807" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033502" lat="22.4709121" lon="88.4464532" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033503" lat="22.4709618" lon="88.4584627" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033504" lat="22.4709845" lon="88.4402884" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033505" lat="22.4709936" lon="88.4361574" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033506" lat="22.4709936" lon="88.4576572" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033507" lat="22.4713658" lon="88.4396154" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033508" lat="22.4714229" lon="88.4315288" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033509" lat="22.4714614" lon="88.4301395" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033510" lat="22.4714702" lon="88.437071" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033511" lat="22.4716381" lon="88.4381811" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033512" lat="22.4717652" lon="88.4353076" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033513" lat="22.4719785" lon="88.4348361" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033514" lat="22.4720455" lon="88.4332863" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033515" lat="22.4732227" lon="88.4479021" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033516" lat="22.4732629" lon="88.6724973" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033517" lat="22.4754993" lon="88.4493076" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033518" lat="22.4763334" lon="88.6727125" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033519" lat="22.4790376" lon="88.4514875" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033520" lat="22.4808212" lon="88.674507" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033521" lat="22.4833546" lon="88.6761616" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033522" lat="22.4846887" lon="88.4545055" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+<node changeset="31934685" id="3591033523" lat="22.4860931" lon="88.6724104" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033524" lat="22.4876229" lon="88.6700312" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033525" lat="22.4882277" lon="88.4566439" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033526" lat="22.4896661" lon="88.6676231" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033527" lat="22.4908" lon="88.666199" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033528" lat="22.4919443" lon="88.4590281" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033529" lat="22.4919499" lon="88.666199" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033530" lat="22.4926184" lon="88.6655333" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033531" lat="22.4927896" lon="88.6635709" timestamp="2015-06-13T00:09:02Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033532" lat="22.4934902" lon="88.6630788" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033533" lat="22.493881" lon="88.4592642" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033534" lat="22.4941535" lon="88.660578" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033535" lat="22.4945332" lon="88.6603523" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033536" lat="22.4955866" lon="88.4599441" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033537" lat="22.4960414" lon="88.6609254" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033538" lat="22.4970416" lon="88.6608154" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033539" lat="22.4973625" lon="88.6596923" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033540" lat="22.4978182" lon="88.4226039" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033541" lat="22.4983198" lon="88.6598197" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033542" lat="22.4985391" lon="88.6595939" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033543" lat="22.4985483" lon="88.4613651" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033544" lat="22.4988667" lon="88.4612141" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033545" lat="22.4995606" lon="88.4227978" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033546" lat="22.4998334" lon="88.6594145" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033547" lat="22.500075" lon="88.4231068" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033548" lat="22.5001099" lon="88.4597977" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033549" lat="22.5001596" lon="88.6592524" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033550" lat="22.5007746" lon="88.6590903" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033551" lat="22.5010207" lon="88.6585925" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033552" lat="22.5011669" lon="88.423369" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033553" lat="22.5012308" lon="88.4584616" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033554" lat="22.501395" lon="88.6572147" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033555" lat="22.5014164" lon="88.6582914" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033556" lat="22.5016517" lon="88.6562827" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033557" lat="22.5019405" lon="88.6559354" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033558" lat="22.5022253" lon="88.4577912" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033559" lat="22.5023948" lon="88.4236097" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033560" lat="22.5024005" lon="88.655426" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033561" lat="22.50315" lon="88.4570311" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033562" lat="22.5032185" lon="88.4335893" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033563" lat="22.5032832" lon="88.4339565" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033564" lat="22.5033594" lon="88.4479569" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033565" lat="22.5034335" lon="88.4473101" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033566" lat="22.5034728" lon="88.4537073" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033567" lat="22.5035033" lon="88.452579" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033568" lat="22.50353" lon="88.4345107" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033569" lat="22.5036234" lon="88.6557819" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033570" lat="22.5036472" lon="88.4331753" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033571" lat="22.5036909" lon="88.4559405" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033572" lat="22.5037304" lon="88.4370078" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033573" lat="22.5037428" lon="88.4366038" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033574" lat="22.5037644" lon="88.4353853" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033575" lat="22.5037737" lon="88.4463753" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033576" lat="22.5037825" lon="88.4548546" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033577" lat="22.5038538" lon="88.4359695" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033578" lat="22.5039818" lon="88.6569319" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033579" lat="22.5039875" lon="88.4503222" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033580" lat="22.5040747" lon="88.4510493" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033581" lat="22.5040759" lon="88.4374852" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033582" lat="22.5040907" lon="88.4247089" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033583" lat="22.5042753" lon="88.4453508" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033584" lat="22.5043935" lon="88.4376387" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033585" lat="22.5046017" lon="88.4439385" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033586" lat="22.5046316" lon="88.4249604" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033587" lat="22.5048006" lon="88.44287" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033588" lat="22.5049826" lon="88.4384066" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033589" lat="22.505" lon="88.4250538" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033590" lat="22.5051923" lon="88.4395917" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033591" lat="22.5052787" lon="88.4320202" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033592" lat="22.5053188" lon="88.4417149" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033593" lat="22.505436" lon="88.4401659" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033594" lat="22.5055509" lon="88.4248885" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033595" lat="22.5056642" lon="88.4407702" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033596" lat="22.5063739" lon="88.4248095" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033597" lat="22.5066742" lon="88.6571305" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033598" lat="22.5066766" lon="88.4306321" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033599" lat="22.5069945" lon="88.4250394" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033600" lat="22.5074075" lon="88.4298451" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033601" lat="22.507455" lon="88.6571305" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033602" lat="22.5075255" lon="88.4255136" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033603" lat="22.5078979" lon="88.429144" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033604" lat="22.5080332" lon="88.4260129" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033605" lat="22.5081162" lon="88.4269037" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033606" lat="22.508154" lon="88.4271038" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033607" lat="22.5081991" lon="88.4265337" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033608" lat="22.5082107" lon="88.4278214" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033609" lat="22.5083041" lon="88.6564192" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033610" lat="22.5086319" lon="88.4284797" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033611" lat="22.5090874" lon="88.4265844" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033612" lat="22.5093709" lon="88.4259612" timestamp="2015-06-13T00:09:03Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033613" lat="22.5096097" lon="88.6563731" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033614" lat="22.5096369" lon="88.4252106" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033615" lat="22.5099771" lon="88.4203477" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033616" lat="22.5099894" lon="88.6555463" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033617" lat="22.5100251" lon="88.424559" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033618" lat="22.5102126" lon="88.4208387" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033619" lat="22.5102388" lon="88.4241388" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033620" lat="22.510382" lon="88.6553616" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033621" lat="22.5105049" lon="88.4211928" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033622" lat="22.5105572" lon="88.4197906" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033623" lat="22.5109025" lon="88.6554447" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033624" lat="22.5111198" lon="88.4216744" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+<node changeset="31934685" id="3591033625" lat="22.5111242" lon="88.4229774" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033626" lat="22.5112638" lon="88.4182232" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033627" lat="22.5113335" lon="88.4222456" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033628" lat="22.5117302" lon="88.6554078" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033629" lat="22.5121996" lon="88.652572" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033630" lat="22.5122209" lon="88.6545811" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033631" lat="22.5122495" lon="88.4159853" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033632" lat="22.5123498" lon="88.4151591" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033633" lat="22.5124021" lon="88.4147672" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033634" lat="22.5124086" lon="88.6540638" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033635" lat="22.512593" lon="88.4140455" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033636" lat="22.512715" lon="88.6512986" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033637" lat="22.5127291" lon="88.4128637" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033638" lat="22.5127523" lon="88.4136073" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033639" lat="22.5128054" lon="88.412253" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033640" lat="22.5128917" lon="88.4108053" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033641" lat="22.5129414" lon="88.4115274" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033645" lat="22.5701391" lon="88.3920044" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033646" lat="22.5703342" lon="88.3910182" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033648" lat="22.571775" lon="88.3923249" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<node changeset="31934685" id="3591033650" lat="22.5719246" lon="88.3913" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1" />
+	
+<way changeset="31934685" id="44917901" timestamp="2015-06-13T00:09:08Z" uid="507276" user="FuckOSMFandODbL" version="9">
+		<nd /><nd /><tag /></way>
+	
+<way changeset="25966956" id="44920163" timestamp="2014-10-09T18:17:51Z" uid="507276" user="FuckOSMFandODbL" version="3">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /></way>
+	
+<way changeset="25966956" id="59153608" timestamp="2014-10-09T18:17:41Z" uid="507276" user="FuckOSMFandODbL" version="2">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /><tag /></way>
+	
+<way changeset="25966956" id="59153610" timestamp="2014-10-09T18:17:40Z" uid="507276" user="FuckOSMFandODbL" version="2">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /><tag /></way>
+	
+<way changeset="21571719" id="112025089" timestamp="2014-04-08T13:56:11Z" uid="507276" user="FuckOSMFandODbL" version="2">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /></way>
+	
+<way changeset="21571719" id="190288646" timestamp="2014-04-08T13:56:10Z" uid="507276" user="FuckOSMFandODbL" version="2">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /></way>
+	
+<way changeset="21571719" id="193233137" timestamp="2014-04-08T13:56:11Z" uid="507276" user="FuckOSMFandODbL" version="2">
+		<nd /><nd /><nd /><nd /><nd /><nd /><tag /></way>
+	
+<way changeset="31934685" id="235370014" timestamp="2015-06-13T00:09:07Z" uid="507276" user="FuckOSMFandODbL" version="4">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /></way>
+	
+<way changeset="21571719" id="238120214" timestamp="2014-04-08T13:56:12Z" uid="507276" user="FuckOSMFandODbL" version="2">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /></way>
+	
+<way changeset="21571719" id="239397885" timestamp="2014-04-08T13:56:10Z" uid="507276" user="FuckOSMFandODbL" version="2">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /></way>
+	
+<way changeset="31934685" id="244517475" timestamp="2015-06-13T00:09:08Z" uid="507276" user="FuckOSMFandODbL" version="2">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /></way>
+	
+<way changeset="21571719" id="272803183" timestamp="2014-04-08T13:56:07Z" uid="507276" user="FuckOSMFandODbL" version="1">
+		<nd /><nd /><nd /><tag /><tag /><tag /><tag /></way>
+	
+<way changeset="21571719" id="272803187" timestamp="2014-04-08T13:56:07Z" uid="507276" user="FuckOSMFandODbL" version="1">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /><tag /><tag /><tag /><tag /></way>
+	
+<way changeset="21571719" id="272803188" timestamp="2014-04-08T13:56:07Z" uid="507276" user="FuckOSMFandODbL" version="1">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /><tag /></way>
+	
+<way changeset="21571719" id="272803189" timestamp="2014-04-08T13:56:07Z" uid="507276" user="FuckOSMFandODbL" version="1">
+		<nd /><nd /><nd /><nd /><nd /><tag /></way>
+	
+<way changeset="25966956" id="299664294" timestamp="2014-10-09T18:17:46Z" uid="507276" user="FuckOSMFandODbL" version="2">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /></way>
+	
+<way changeset="25966956" id="299664378" timestamp="2014-10-09T18:17:44Z" uid="507276" user="FuckOSMFandODbL" version="2">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /><tag /></way>
+	
+<way changeset="25966956" id="307052863" timestamp="2014-10-09T18:17:36Z" uid="507276" user="FuckOSMFandODbL" version="1">
+		<nd /><nd /><nd /><nd /><tag /></way>
+	
+<way changeset="25966956" id="307052878" timestamp="2014-10-09T18:17:36Z" uid="507276" user="FuckOSMFandODbL" version="1">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /><tag /></way>
+	
+<way changeset="25966956" id="307052879" timestamp="2014-10-09T18:17:37Z" uid="507276" user="FuckOSMFandODbL" version="1">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /><tag /></way>
+	
+<way changeset="25966956" id="307052880" timestamp="2014-10-09T18:17:37Z" uid="507276" user="FuckOSMFandODbL" version="1">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /><tag /></way>
+	
+<way changeset="25966956" id="307052881" timestamp="2014-10-09T18:17:37Z" uid="507276" user="FuckOSMFandODbL" version="1">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /><tag /></way>
+	
+<way changeset="25966956" id="307052882" timestamp="2014-10-09T18:17:37Z" uid="507276" user="FuckOSMFandODbL" version="1">
+		<nd /><nd /><tag /><tag /><tag /><tag /></way>
+	
+<way changeset="25966956" id="307052883" timestamp="2014-10-09T18:17:37Z" uid="507276" user="FuckOSMFandODbL" version="1">
+		<nd /><nd /><tag /><tag /><tag /><tag /></way>
+	
+<way changeset="31934685" id="326258491" timestamp="2015-06-13T00:09:08Z" uid="507276" user="FuckOSMFandODbL" version="2">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /></way>
+	
+<way changeset="31934685" id="326258492" timestamp="2015-06-13T00:09:08Z" uid="507276" user="FuckOSMFandODbL" version="2">
+		<nd /><nd /><tag /><tag /></way>
+	
+<way changeset="31934685" id="326258493" timestamp="2015-06-13T00:09:08Z" uid="507276" user="FuckOSMFandODbL" version="2">
+		<nd /><nd /><nd /><tag /></way>
+	
+<way changeset="31934685" id="326258498" timestamp="2015-06-13T00:09:06Z" uid="507276" user="FuckOSMFandODbL" version="2">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /></way>
+	
+<way changeset="31934685" id="350622731" timestamp="2015-06-13T00:09:09Z" uid="507276" user="FuckOSMFandODbL" version="2">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /><tag /><tag /><tag /><tag /></way>
+	
+<way changeset="31934685" id="353322437" timestamp="2015-06-13T00:09:04Z" uid="507276" user="FuckOSMFandODbL" version="1">
+		<nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><nd /><tag /></way>
+	
+<way changeset="31934685" id="353322442" timestamp="2015-06-13T00:09:05Z" uid="507276" user="FuckOSMFandODbL" version="1">
+		<nd /><nd /><nd /><nd /><nd /><tag /></way>
+	
+1005

@@ -1,0 +1,10 @@
+A text file containing a link to the map position you wrangled in your project, a short description of the area and a reason for your choice.
+
+https://www.openstreetmap.org/node/245707150
+
+
+Kolkata is the capital of the East Indian State of West Bengal and also one of the largest cities in India. Located on the banks of the Hooghly river, Kolkata is the third most populous metropolitan area in India and is home to about 4.5 million people. 
+
+The reason for my choice is that I was born and raised in Kolkata, and it is where I live.
+
+Read more at https://en.wikipedia.org/wiki/Kolkata
