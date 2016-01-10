@@ -4,7 +4,8 @@ filename = "/Users/umangagarwal/Desktop/kolkata_india.osm"
 
 
 osm = iter(ET.iterparse(filename,events=("end",)))
-
+'''Exploring street names by manual inspection,
+got to know that some street names were using non unicode characters so used repr()'''
 
 for event, elem in osm:
 	try:
