@@ -11,7 +11,8 @@ def get_element(osm_file, tags=('node', 'way', 'relation')):
     """Yield element if it is the right type of tag
 
     Reference:
-    http://stackoverflow.com/questions/3095434/inserting-newlines-in-xml-file-generated-via-xml-etree-elementtree-in-python
+    http://stackoverflow.com/questions/3095434/inserting-newlines-in-xml-file\
+    -generated-via-xml-etree-elementtree-in-python
     """
     context = ET.iterparse(osm_file, events=('start', 'end'))
     _, root = next(context)

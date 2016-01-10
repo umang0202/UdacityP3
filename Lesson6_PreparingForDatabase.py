@@ -6,6 +6,8 @@ import re
 import codecs
 import json
 import Lesson6_ImprovingStreetNames as cleaner
+import phoneNumber_cleaner as cleaner2
+
 filename = "/Users/umangagarwal/Desktop/kolkata_india.osm" 
 """
 Your task is to wrangle the data and transform the shape of the data
@@ -134,7 +136,10 @@ def shape_element(element):
                 else:
                     node['address'][tagval] = tagnode.get('v')
             else:
-              node[tagnode.get('k')] = tagnode.get('v')
+              if tagnode.get('k') == "phone":
+                node[tagnode.get('k')] = cleaner2.update_phone(tagnode.get('v'))
+              else:
+                node[tagnode.get('k')] = tagnode.get('v')
         if element.tag == "way":
           for ndway in element.findall('nd'):
             if node.has_key('node_refs') == False:
