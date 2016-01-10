@@ -28,9 +28,6 @@ def process_map(filename):
             continue
     return len(set(users))
 
-if 6 == 6:
-
-
 
 
 def test():
